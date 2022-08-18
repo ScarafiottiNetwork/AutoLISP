@@ -1,2 +1,3 @@
 # AutoLISP
-LISP di automazione
+LISP di automazione per AutoCAD.
+
