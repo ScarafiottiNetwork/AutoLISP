@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"f:\\\\CLOUD\\\\GIT\" -Recurse -Filter \"*.ps1\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Head -50)"
+    ]
+  }
+}
